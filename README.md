@@ -2,7 +2,7 @@
 
 A machine learning project that screens resumes against a job description, scores how well each candidate matches, and returns a ranked shortlist with the reasons behind every score. It includes a full ML notebook, a synthetic dataset generator, and a Streamlit web app for recruiters.
 
-**Live demo:** _add your Streamlit link here (e.g. https://your-app-name.streamlit.app)_
+**Live demo:** https://ankita-resume-screener.streamlit.app/
 
 > **Note:** The model is trained on a **synthetic** dataset, so the scores are a proof of concept, not a measure of real-world hiring accuracy. A human should always make the final hiring decision.
 
