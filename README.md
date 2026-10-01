@@ -17,6 +17,22 @@ A machine learning project that screens resumes against a job description, score
 - **Explainability:** top terms that push a decision towards select or reject.
 - **Web app:** paste a job description, upload resumes (PDF, DOCX or TXT), and download the ranked shortlist as CSV.
 
+## Screenshots
+
+**1. Input:** paste a job description, upload resumes (or load the demo), then click **Screen candidates**.
+
+![Input screen](screenshots/01-input.png)
+
+**2. Results:** ranked table with match score, skill match, experience, recommendation and shortlist status, plus a match-score chart.
+
+![Results screen](screenshots/02-results.png)
+
+**3. Explanations:** the "Why this ranking?" section for each candidate, with a CSV download of the shortlist.
+
+![Explanation screen](screenshots/03-explanations.png)
+
+---
+
 ## Results
 
 Evaluated on a held-out test set (20% of the data):
