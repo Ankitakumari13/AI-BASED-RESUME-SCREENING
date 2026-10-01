@@ -1,0 +1,30 @@
+Priya Mehta
+Data Scientist
+Email: priya.mehta@example.com | Phone: +91-9614928863 | linkedin.com/in/priya-mehta
+
+SUMMARY
+Results-driven Data Scientist skilled in sklearn, tableau, machine learning, with 6 years of professional experience.
+
+SKILLS
+sklearn, tableau, machine learning, python, A/B Testing, pandas, Data Visualization, pytorch, neural networks
+
+EXPERIENCE
+Data Scientist, Infranova (3 years)
+- Led a module built on tableau, reducing turnaround time by 33%.
+- Collaborated with cross-functional teams applying Data Visualization across 27 projects.
+- Designed and maintained solutions with machine learning, supporting 60+ internal users.
+Junior Data Scientist, CoreStack (3 years)
+- Collaborated with cross-functional teams applying pytorch across 25 projects.
+- Led a module built on A/B Testing, reducing turnaround time by 19%.
+- Led a module built on python, reducing turnaround time by 41%.
+
+EDUCATION
+B.Sc in Computer Science (2018)
+
+PROJECTS
+- Campaign Performance Report: built using Data Visualization.
+- Sales Forecasting Tool: built using machine learning.
+- Attendance Portal: built using A/B Testing.
+
+CERTIFICATIONS
+- IBM Data Science Professional Certificate

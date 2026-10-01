@@ -1,0 +1,23 @@
+Nikhil Bose
+Cybersecurity Analyst
+Email: nikhil.bose@example.com | Phone: +91-9829595074 | linkedin.com/in/nikhil-bose
+
+SUMMARY
+Cybersecurity Analyst with 1 year of experience delivering results using wireshark, SIEM tools, Data Visualization.
+
+SKILLS
+wireshark, SIEM tools, Data Visualization, tensorflow, Incident Response, splunk, python
+
+EXPERIENCE
+Cybersecurity Analyst, CoreStack (1 year)
+- Automated recurring tasks using Incident Response, saving about 31 hours per week.
+- Designed and maintained solutions with SIEM tools, supporting 57+ internal users.
+
+EDUCATION
+MBA (Analytics) (2022)
+
+PROJECTS
+- Sentiment Analyzer: built using wireshark.
+
+CERTIFICATIONS
+- Microsoft Azure Fundamentals

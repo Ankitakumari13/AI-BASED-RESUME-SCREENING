@@ -1,0 +1,28 @@
+Daniel Sharma
+Data Scientist
+Email: daniel.sharma@example.com | Phone: +91-9887694451 | linkedin.com/in/daniel-sharma
+
+SUMMARY
+Data Scientist with 4 years of experience delivering results using deep learning, sklearn, AWS.
+
+SKILLS
+deep learning, sklearn, AWS, docker, tensorflow, A/B Testing
+
+EXPERIENCE
+Data Scientist, CoreStack (2 years)
+- Used A/B Testing to deliver measurable improvements, raising team efficiency by 12%.
+- Automated recurring tasks using AWS, saving about 55 hours per week.
+Junior Data Scientist, Infranova (2 years)
+- Collaborated with cross-functional teams applying A/B Testing across 26 projects.
+- Automated recurring tasks using sklearn, saving about 40 hours per week.
+
+EDUCATION
+M.Sc in Data Science (2020)
+
+PROJECTS
+- Attendance Portal: built using A/B Testing.
+- Survey Analytics Tool: built using sklearn.
+- Sales Forecasting Tool: built using A/B Testing.
+
+CERTIFICATIONS
+- IBM Data Science Professional Certificate

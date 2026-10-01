@@ -1,0 +1,29 @@
+Manish Chopra
+Data Scientist
+Email: manish.chopra@example.com | Phone: +91-9747383713 | linkedin.com/in/manish-chopra
+
+SUMMARY
+Results-driven Data Scientist skilled in pandas, scikit-learn, tensorflow, with 3 years of professional experience.
+
+SKILLS
+pandas, scikit-learn, tensorflow, machine learning, docker, NLP, statistics, SQL, A/B Testing, Amazon Web Services, Data Visualization, python, deep learning
+
+EXPERIENCE
+Data Scientist, Pixelwave Solutions (3 years)
+- Automated recurring tasks using Data Visualization, saving about 32 hours per week.
+- Used statistics to deliver measurable improvements, raising team efficiency by 46%.
+
+EDUCATION
+M.Tech in Computer Science (2020)
+
+PROJECTS
+- Log Monitoring System: built using SQL.
+- Log Monitoring System: built using machine learning.
+- Campaign Performance Report: built using A/B Testing.
+- Sentiment Analyzer: built using Data Visualization.
+- Fraud Detection Pipeline: built using Data Visualization.
+
+CERTIFICATIONS
+- Coursera Machine Learning Specialization
+- Google Data Analytics Certificate
+- IBM Data Science Professional Certificate

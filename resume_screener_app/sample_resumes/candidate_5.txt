@@ -1,0 +1,34 @@
+Pooja Agarwal
+Data Scientist
+Email: pooja.agarwal@example.com | Phone: +91-9129210557 | linkedin.com/in/pooja-agarwal
+
+SUMMARY
+Detail-oriented Data Scientist bringing 13 years of experience in statistics, spark, docker.
+
+SKILLS
+statistics, spark, docker, python, Data Visualization, SQL, pytorch, NLP, sklearn, tensorflow, pandas, machine learning, tableau, deep learning, AWS
+
+EXPERIENCE
+Data Scientist, Nexora Systems (6 years)
+- Led a module built on tensorflow, reducing turnaround time by 51%.
+- Led a module built on pytorch, reducing turnaround time by 50%.
+- Used pandas to deliver measurable improvements, raising team efficiency by 26%.
+Junior Data Scientist, Trident Infotech (7 years)
+- Designed and maintained solutions with statistics, supporting 52+ internal users.
+- Designed and maintained solutions with pytorch, supporting 46+ internal users.
+
+EDUCATION
+M.Tech in Computer Science (2011)
+
+PROJECTS
+- Portfolio Website: built using sklearn.
+- Sentiment Analyzer: built using AWS.
+- Inventory Tracker: built using tensorflow.
+- Booking Platform: built using SQL.
+- Survey Analytics Tool: built using deep learning.
+- Campaign Performance Report: built using sklearn.
+
+CERTIFICATIONS
+- Coursera Machine Learning Specialization
+- IBM Data Science Professional Certificate
+- Google Data Analytics Certificate

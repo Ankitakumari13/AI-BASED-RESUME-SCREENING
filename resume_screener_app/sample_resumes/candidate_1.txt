@@ -1,0 +1,24 @@
+Rahul Verma
+Full Stack Developer
+Email: rahul.verma@example.com | Phone: +91-9337679481 | linkedin.com/in/rahul-verma
+
+SUMMARY
+Detail-oriented Full Stack Developer bringing 2 years of experience in mongodb, docker, Amazon Web Services.
+
+SKILLS
+mongodb, docker, Amazon Web Services, react, natural language processing, html, RESTful services, deep learning, css, NodeJS, sklearn
+
+EXPERIENCE
+Full Stack Developer, BrightPath Services (2 years)
+- Led a module built on html, reducing turnaround time by 11%.
+- Led a module built on deep learning, reducing turnaround time by 29%.
+
+EDUCATION
+B.Sc in Computer Science (2022)
+
+PROJECTS
+- Inventory Tracker: built using css.
+- Survey Analytics Tool: built using NodeJS.
+- Task Management App: built using docker.
+- Attendance Portal: built using html.
+- Chat Support Bot: built using NodeJS.

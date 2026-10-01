@@ -1,0 +1,1 @@
+Data Scientist opening: we are looking for a candidate with hands-on experience in Data Visualization, NLP, tensorflow, python, deep learning, sklearn. Familiarity with docker, AWS is a plus. Requirements: 3+ years of experience, Master's degree.
