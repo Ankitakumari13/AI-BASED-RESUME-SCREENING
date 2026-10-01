@@ -21,15 +21,18 @@ A machine learning project that screens resumes against a job description, score
 
 **1. Input:** paste a job description, upload resumes (or load the demo), then click **Screen candidates**.
 
-![Input screen](screenshots/01-input.png)
+<img width="1871" height="900" alt="01-input" src="https://github.com/user-attachments/assets/1d143550-2300-4565-bc35-0524764be678" />
+
 
 **2. Results:** ranked table with match score, skill match, experience, recommendation and shortlist status, plus a match-score chart.
 
-![Results screen](screenshots/02-results.png)
+<img width="1897" height="892" alt="02-results" src="https://github.com/user-attachments/assets/fd4621aa-ef13-4803-9094-59e8f608aea3" />
+
 
 **3. Explanations:** the "Why this ranking?" section for each candidate, with a CSV download of the shortlist.
 
-![Explanation screen](screenshots/03-explanations.png)
+<img width="1877" height="865" alt="Screenshot 2026-10-01 151647" src="https://github.com/user-attachments/assets/ecbf0c96-4c51-4124-8fc9-6caebc8c46e2" />
+
 
 ---
 
